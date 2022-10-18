@@ -55,7 +55,7 @@ int handle_write_char(char c, char buffer[],
  * @precision: precision specifier
  * @size: Size specifier
  *
- * Return: Number of chars printed.
+ * Return: Number of chars printd.
  */
 int write_number(int is_negative, int ind, char buffer[],
 	int flags, int width, int precision, int size)
